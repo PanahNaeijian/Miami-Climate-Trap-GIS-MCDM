@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated study."
+title: "Miami Climate Trap GIS-MCDM"
+type: software
+authors:
+  - family-names: "Naeijian"
+    given-names: "Panah"
+
+repository-code: "https://github.com/PanahNaeijian/Miami-Climate-Trap-GIS-MCDM"
+
+abstract: >
+  MATLAB code, figures, and data-source documentation associated with a
+  GIS-MCDM study of climate-resilient water reuse infrastructure siting
+  under sea-level rise in Miami-Dade County, Florida.
+
+license: MIT

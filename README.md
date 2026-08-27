@@ -15,8 +15,6 @@ This repository contains the MATLAB code, figure outputs, and data-source docume
 - `data/`  
   Contains documentation describing the required datasets, original sources, file names, and expected folder structure.
 
-- `manuscript/`  
-  Contains manuscript-related files, if included.
 
 ## Main Analysis Code
 
